@@ -3,7 +3,7 @@
 
 ## About
 
-Autofill and complete online web formularies with your custom data to avoid the tedious task of typing everything again and again. 
+Autofill is a Greasemonkey UserScript (JavaScript/jQuery) that completes online web formularies with your custom data, avoiding the tedious task of typing everything again and again. 
 
 License: Creative Commons Attributive Share-Alike 3.0 
 
